@@ -1,0 +1,5 @@
+0 Luciano com mascara
+1 Luciano sem mascara
+2 Pedra
+3 Papel
+4 Tesoura
